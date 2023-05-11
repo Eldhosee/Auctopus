@@ -67,7 +67,7 @@ The Product model represents a product.
 
   used Postman to test the APIs
   
-  ### demo link
+  ### Test demo link
   
   https://drive.google.com/file/d/1bmyA-nzO7PEkqbCOysqlw9V01HwOw-do/view?usp=sharing
   
