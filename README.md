@@ -76,7 +76,7 @@ The Product model represents a product.
  
     1.Frontend : HTML,CSS Bootstrap, Javascript
     2.Backend: Django
-    3.Databse: PostgreSQL database
+    3.Database: PostgreSQL database
     
 ## Working Demo
 
